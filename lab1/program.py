@@ -1,1 +1,3 @@
-print ("loay laham")
+def printmyname():
+	print("loay laham")
+	
